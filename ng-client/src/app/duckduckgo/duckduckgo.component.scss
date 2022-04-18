@@ -1,0 +1,54 @@
+body {
+    overflow: hidden;
+}
+
+.main-frame {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 45px 0 0 210px;
+
+    .history-card {
+        width: 17%;
+        margin-right: 15px;
+        background-color: rgba(0,0,0,.04);
+
+        div.left-panel {
+            width: 30%;
+
+            & span {
+                padding: 15px;
+                font-size: medium;
+                border-bottom: 1px solid;
+            }
+        }
+    }
+
+    div.right-panel {
+        width: 70%;
+        flex-direction: column;
+
+        .search-block {
+            display: flex;
+            flex-direction: row;
+
+            duckduck-search {
+                width: 45%;
+            }
+
+            .history-toggle {
+                align-self: center;
+                margin-left: 43px;
+            }
+        }
+
+        .appearences {
+            padding-bottom: 15px;
+        }
+        
+        mat-card {
+            width: 57%;
+            height: 785px;
+        }
+    }
+}

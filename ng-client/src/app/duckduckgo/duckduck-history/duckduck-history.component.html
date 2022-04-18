@@ -1,0 +1,9 @@
+<div class="duck-history">
+    <mat-list role="list">
+        <mat-list-item role="listitem"
+            *ngFor="let query of data"
+            class="list-item"
+            (click)="activateQuery(query)">{{query}}
+        </mat-list-item>
+    </mat-list>
+</div>

@@ -1,0 +1,22 @@
+<div class="main-frame">
+    <mat-card class="history-card">
+        <div class="left-panel">
+            <span>History</span>
+            <duckduck-history [data]="historyData" (queryToPreselect)="setPreselectedQuery($event)"></duckduck-history>
+        </div>
+    </mat-card>
+    <div class="right-panel">
+        <div class="search-block">
+            <duckduck-search [preselected]="preselectedQuery" (query)="onSearchRequested($event)"></duckduck-search>
+            <div class="history-toggle">
+                <mat-slide-toggle [(ngModel)]="isArchived" [labelPosition]="'before'" (ngModelChange)="onModeChange()">Keep history </mat-slide-toggle>
+            </div>
+        </div>
+        <div class="appearences" *ngIf="!!appearences">
+            <span>{{appearences}} appearences in results</span>
+        </div>
+        <mat-card>
+            <duckduck-results [data]="resultData" [searchTerms]="searchTerms"></duckduck-results>
+        </mat-card>
+    </div>
+</div>

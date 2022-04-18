@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\DProjects\\DuckDuckGo\\DuckDuck.Api\\DuckDuck.Api.csproj": {}
+  },
+  "projects": {
+    "c:\\DProjects\\DuckDuckGo\\DuckDuck.Api\\DuckDuck.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Api\\DuckDuck.Api.csproj",
+        "projectName": "DuckDuck.Api",
+        "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Api\\DuckDuck.Api.csproj",
+        "packagesPath": "C:\\Users\\97254\\.nuget\\packages\\",
+        "outputPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97254\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\DProjects\\DuckDuckGo\\DuckDuck.Services\\DuckDuck.Services.csproj": {
+                "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Services\\DuckDuck.Services.csproj"
+              },
+              "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj": {
+                "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.SpaServices.Extensions": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\DProjects\\DuckDuckGo\\DuckDuck.Dal\\DuckDuck.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Dal\\DuckDuck.Dal.csproj",
+        "projectName": "DuckDuck.Dal",
+        "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Dal\\DuckDuck.Dal.csproj",
+        "packagesPath": "C:\\Users\\97254\\.nuget\\packages\\",
+        "outputPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97254\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\DProjects\\DuckDuckGo\\DuckDuck.Services\\DuckDuck.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Services\\DuckDuck.Services.csproj",
+        "projectName": "DuckDuck.Services",
+        "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Services\\DuckDuck.Services.csproj",
+        "packagesPath": "C:\\Users\\97254\\.nuget\\packages\\",
+        "outputPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97254\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\DProjects\\DuckDuckGo\\DuckDuck.Dal\\DuckDuck.Dal.csproj": {
+                "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck.Dal\\DuckDuck.Dal.csproj"
+              },
+              "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj": {
+                "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj",
+        "projectName": "DuckDuck",
+        "projectPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck\\DuckDuck.csproj",
+        "packagesPath": "C:\\Users\\97254\\.nuget\\packages\\",
+        "outputPath": "c:\\DProjects\\DuckDuckGo\\DuckDuck\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\97254\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

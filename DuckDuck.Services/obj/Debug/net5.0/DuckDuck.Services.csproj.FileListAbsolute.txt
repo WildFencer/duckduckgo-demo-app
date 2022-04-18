@@ -1,0 +1,17 @@
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.Services.deps.json
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.Services.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.Services.pdb
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.Dal.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.pdb
+C:\DProjects\DuckDuckGo\DuckDuck.Services\bin\Debug\net5.0\DuckDuck.Dal.pdb
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.csproj.AssemblyReference.cache
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.AssemblyInfoInputs.cache
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.AssemblyInfo.cs
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.csproj.CoreCompileInputs.cache
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.csproj.CopyComplete
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\refint\DuckDuck.Services.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\DuckDuck.Services.pdb
+C:\DProjects\DuckDuckGo\DuckDuck.Services\obj\Debug\net5.0\ref\DuckDuck.Services.dll

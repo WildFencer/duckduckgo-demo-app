@@ -1,0 +1,12 @@
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\bin\Debug\net5.0\DuckDuck.Dal.deps.json
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\bin\Debug\net5.0\DuckDuck.Dal.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\bin\Debug\net5.0\DuckDuck.Dal.pdb
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.csproj.AssemblyReference.cache
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.AssemblyInfoInputs.cache
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.AssemblyInfo.cs
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.csproj.CoreCompileInputs.cache
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\refint\DuckDuck.Dal.dll
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\DuckDuck.Dal.pdb
+C:\DProjects\DuckDuckGo\DuckDuck.Dal\obj\Debug\net5.0\ref\DuckDuck.Dal.dll

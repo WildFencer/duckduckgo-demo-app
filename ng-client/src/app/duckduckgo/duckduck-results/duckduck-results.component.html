@@ -1,0 +1,17 @@
+<div class="duck-results">
+    <mat-list role="list">
+        <mat-list-item role="listitem"
+            *ngFor="let item of dataSource"
+            class="list-item"
+            (click)="goToLink(item.url)"
+            [innerHtml]="item.title | highlightHit: searchTerms">
+        </mat-list-item>
+    </mat-list>
+</div>
+
+<mat-paginator #paginator [length]="data?.length"
+              [pageSize]="pageSize"
+              [pageSizeOptions]="[5, 10, 15]"
+              aria-label="Select page"
+              (page)="onPageSelect($event)">
+</mat-paginator>
